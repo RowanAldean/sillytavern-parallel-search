@@ -1,0 +1,12 @@
+{
+  "name": "sillytavern-parallel-search",
+  "version": "0.1.0",
+  "description": "Third-party Parallel Search UI extension and server plugin for SillyTavern",
+  "type": "module",
+  "main": "server/index.mjs",
+  "license": "AGPL-3.0-or-later",
+  "author": "Rowan Aldean (Parallel Web Systems)",
+  "repository": "github:RowanAldean/sillytavern-parallel-search",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test", "check": "node --check index.js && node --check server/index.mjs && node --check server/search.mjs" }
+}

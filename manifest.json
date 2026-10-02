@@ -1,0 +1,12 @@
+{
+  "display_name": "Parallel Search",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Rowan Aldean (Parallel Web Systems)",
+  "version": "0.1.0",
+  "homePage": "https://github.com/RowanAldean/sillytavern-parallel-search",
+  "auto_update": false,
+  "minimum_client_version": "1.19.0"
+}
